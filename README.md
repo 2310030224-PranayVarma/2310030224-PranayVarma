@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @2310030224-PranayVarma
-- 👀 I’m interested in Present Moment
+👋 Hi, I’m @2310030224-PranayVarma
+- 👀 I’m interested in the Present Moment
 - 🌱 I’m currently learning New Skills
 - 💞️ I’m looking to collaborate on Life
-- 📫 How to reach me is you can email me
+- 📫 How to reach me: you can email me
 - 😄 Pronouns: He/Boy/Man
 - ⚡ Fun fact: Don't end up there
 
@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies and improve my skills.
 
 ## 🛠 Technologies & Tools
-- **Languages:** ![python](https://github.com/user-attachments/assets/33197bb8-a67b-44a5-8b54-5fa1d7755491), JavaScript, Java, C++
+- **Languages:** 🐍 python, 🌐 JavaScript, ☕ Java, 🔧 C++, 🖥️ C
 - **Web Development:** HTML, CSS, React, Node.js, Express.js
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, Docker, Jenkins, AWS, VS Code
@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 ![Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=2310030224-PranayVarma&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
-- **Email:** pranayvarma@example.com
+- **Email:** 2310030224@klh.edu.in
 - **LinkedIn:** [Pranay Varma](https://www.linkedin.com/in/pranay-nampally-544412324/)
 - **Twitter:** [@pranay_224](https://x.com/pranay_224)
 - **Telegram** [@Pranay](https://t.me/p6r0a0n2a8y1)
@@ -38,8 +38,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 Here are some of my notable projects:
 
 - **Project 1:** [Traffic Sign Detection](https://github.com/2310030224-PranayVarma/trafficsigns_detection_model).
-- **Project 2:** [Gender Detection]()
+- **Project 2:** [Gender Detection](https://github.com/2310030224-PranayVarma/Gender_Detection_System_ML)
 - **Project 3:** Description of project 3.
-
 
 Thank you for visiting my profile! Let's connect and collaborate on exciting projects.
