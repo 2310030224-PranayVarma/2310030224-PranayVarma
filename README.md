@@ -25,9 +25,6 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 - Cloud Computing with AWS
 - Machine Learning and AI
 
-## 📈 GitHub Stats
-![Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=2310030224-PranayVarma&show_icons=true&theme=radical)
-
 ## 📫 How to reach me
 - **Email:** 2310030224@klh.edu.in
 - **LinkedIn:** [Pranay Varma](https://www.linkedin.com/in/pranay-nampally-544412324/)
